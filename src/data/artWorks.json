@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/artworks/waterInk_abstract_01_r.jpg",
+    "alt": "Abstract Waterink 01-2",
+    "name": "Abstract Waterink 01-2",
+    "button": "View Detail"
+  },
+  {
+    "img": "../assets/images/artworks/waterInk_abstract_02_b.jpg",
+    "alt": "Abstract Waterink 02-1",
+    "name": "Abstract Waterink 02-1",
+    "button": "View Detail"
+  },
+  {
+    "img": "../assets/images/artworks/waterInk_abstract_02_g.jpg",
+    "alt": "Abstract Waterink 02-2",
+    "name": "Abstract Waterink 02-2",
+    "button": "View Detail"
+  },
+  {
+    "img": "../assets/images/artworks/waterInk_abstract_03_c2.jpg",
+    "alt": "Abstract Waterink 03-2",
+    "name": "Abstract Waterink 03-2",
+    "button": "View Detail"
+  }
+]
